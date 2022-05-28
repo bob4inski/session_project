@@ -40,5 +40,16 @@ Also aboba is a ~~__joke__ ~~
 For the file `aboba.sh` u have to write in cmd `chmod +x aboba.sh`
 
 After that u can choose what file run 
->[`aboba.py`](https://github.com/bob4inski/session_project/blob/main/aboba.py)
->[`aboba.sh`](https://github.com/bob4inski/session_project/blob/main/aboba.sh)
+
+And type that for files:
+  > for [`aboba.py`](https://github.com/bob4inski/session_project/blob/main/aboba.py)
+ ```
+ python3 aboba.py
+ ```
+  > 
+  > for  or  [`aboba.sh`](https://github.com/bob4inski/session_project/blob/main/aboba.sh)
+  ```
+  ./aboba.sh
+  ```
+  
+  
