@@ -20,7 +20,25 @@ I think u reaaly wanna hear history of smth like aboba. Nobody know it, but i ll
 
 let's do a morphological analysis of this word
 ```
-AbobA [або'ба] - it is a combination of simplicity and elegance. This word sounds easy phonetically, moreover this word is symmetrical
+AbobA [або'ба] - it is a combination of simplicity and elegance. 
+This word sounds easy phonetically, moreover this word is symmetrical
 ```
 
-## Post Installation
+`Aboba most used in May 2021!`
+
+Let's see another opinion from Russia
+```а - андреевич
+боб - боберт
+а - чтобы палиндром получился
+```
+Also aboba is a ~~__joke__ ~~ 
+
+### NOOO ABOBA IS A PART OF OUR LIFE
+
+## Using this program~~
+
+For the file `aboba.sh` u have to write in cmd `chmod +x aboba.sh`
+
+After that u can choose what file run 
+>[`aboba.py`](http://sabaka.net)
+>or `aboba.sh`
