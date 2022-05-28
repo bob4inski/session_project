@@ -52,4 +52,5 @@ And type that for files:
   ./aboba.sh
   ```
   
+  U can choose how strong password would be and copy it from terminal
   
